@@ -236,7 +236,7 @@ const sideProjects = {
       ]
     },
     {
-      image: require("./assets/images/newtonianSim.gif"),
+      image: "https://private-user-images.githubusercontent.com/54000878/289900825-e8ae18fc-e92f-434c-b4c6-e088ed936275.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk5ODI2MzAsIm5iZiI6MTc0OTk4MjMzMCwicGF0aCI6Ii81NDAwMDg3OC8yODk5MDA4MjUtZThhZTE4ZmMtZTkyZi00MzRjLWI0YzYtZTA4OGVkOTM2Mjc1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjE1VDEwMTIxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYyNmJlMGM5ZDJkODk5Yjk5MzJjZmUwY2ExMTUzNzY2NzMxYzEwYjE3ZDQ2OGFlYmE2OTc1M2UwMDg1NzZjNzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.8I5TKb2YX-LMMFUmZXChmPcmCwk9sOa_incUIX3VZ1Y",
       projectName: "Newtonian Gravity Simulator",
       projectDesc: "A tech demo to demonstrate my understanding of maths and Proficiency in Unity",
       footerLink: [
